@@ -2,7 +2,7 @@
 
 **`Tech Artisan (Software Engineer/Content Creator/Mentor)`**
 
-I'm a self-made full-stack developer and content creator, crafting digital solutions and videos step by step. From planning and coding projects to creating engaging content, I simplify complexities. You'll find my insights and creations on my YouTube channel, "DarshanDev," with a community of over 900 subscribers. Join me as I navigate the digital world, one project and video at a time! 🚀 "[DarshanDev][youtube]" to more than 950 subscribers.
+I'm a self-made full-stack developer and content creator, crafting digital solutions and videos step by step. From planning and coding projects to creating engaging content, I simplify complexities. You'll find my insights and creations on my YouTube channel, "DarshanDev," with a community of over 900 subscribers. Join me as I navigate the digital world, one project and video at a time! 🚀 "[DarshanDev][youtube]" to more than 980 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/@darshandev1754?sub_confirmation=1">
